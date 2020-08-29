@@ -2,7 +2,7 @@
 This repository contains a Memory Puzzle game written in Ruby. 
 
 ## What is it?
-A player must select a position on a board (E.g. row,column => 0,2). The board will reveal the card at this position. Then the player must select another position on the board that matches the previously selected position. If the positions match, a both cards will remain face up. If not then the cards are flipped face down and the player must try again. The game ends once the player has matched all the cards.
+A player must select a position on a board (E.g. row,column => 0,2). The board will reveal the card at this position. Then the player must select another position on the board that matches the previously selected card. If the positions match, a both cards will remain face up. If not then the cards are flipped face down and the player must try again. The game ends once the player has matched all the cards.
 
 ## Gameplay
 ![alt-text](https://github.com/ranveer4744/Memory-Puzzle-Game/blob/master/memory.gif)
